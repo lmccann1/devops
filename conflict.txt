@@ -1,2 +1,2 @@
-This is a conflict pr merges 
- and now it's fixed
+ a conflict pr merges 
+and now it's fixed
